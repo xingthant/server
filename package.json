@@ -1,13 +1,17 @@
 {
   "name": "forwarder",
   "version": "1.0.0",
-  "type": "module",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^5.1.0",
     "node-fetch": "^3.3.2"
   }
 }
